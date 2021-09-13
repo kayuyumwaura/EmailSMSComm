@@ -83,3 +83,7 @@ C:\tuvitu\.Net\EmailSMSCommunication\EmailSMSCommunication\obj\Debug\EmailSMSCom
 C:\tuvitu\.Net\EmailSMSCommunication\EmailSMSCommunication\obj\Debug\EmailSMSCommunication.csproj.CopyComplete
 C:\tuvitu\.Net\EmailSMSCommunication\EmailSMSCommunication\obj\Debug\EmailSMSCommunication.dll
 C:\tuvitu\.Net\EmailSMSCommunication\EmailSMSCommunication\obj\Debug\EmailSMSCommunication.pdb
+C:\tuvitu\.Net\EmailSMSComm\EmailSMSCommunication\obj\Debug\EmailSMSCommunication.csprojAssemblyReference.cache
+C:\tuvitu\.Net\EmailSMSComm\EmailSMSCommunication\obj\Debug\EmailSMSCommunication.csproj.CoreCompileInputs.cache
+C:\tuvitu\.Net\EmailSMSComm\EmailSMSCommunication\obj\Debug\EmailSMSCommunication.dll
+C:\tuvitu\.Net\EmailSMSComm\EmailSMSCommunication\obj\Debug\EmailSMSCommunication.pdb
